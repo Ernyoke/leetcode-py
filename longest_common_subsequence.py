@@ -19,7 +19,7 @@ class Solution:
                 else:
                     dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
 
-        return dp[len(text1)][len(text2)]
+        return dp[-1][-1]
 
     def longestCommonSubsequence_slow(self, text1: str, text2: str) -> int:
 
