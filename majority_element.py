@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/majority-element/
+
 from collections import Counter
 from typing import List
 
