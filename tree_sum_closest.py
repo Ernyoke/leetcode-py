@@ -24,8 +24,8 @@ class Solution:
 
 
 if __name__ == '__main__':
-    # print(Solution().threeSumClosest([-1, 2, 1, -4], 1))
-    # print(Solution().threeSumClosest([1, 1, 1, 0], -100))
+    print(Solution().threeSumClosest([-1, 2, 1, -4], 1))
+    print(Solution().threeSumClosest([1, 1, 1, 0], -100))
     print(Solution().threeSumClosest([-1, 2, 1, -4], 1))
     print(Solution().threeSumClosest(
         [-93, -78, -7, 50, 17, 62, -17, 25, -10, 22, 74, 1, 80, 94, 5, -42, 25, 30, -45, -28, 54, 1, -56, -10, 58, -88,
