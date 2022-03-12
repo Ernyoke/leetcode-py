@@ -1,4 +1,5 @@
-# Definition for a binary tree node.
+# https://leetcode.com/problems/binary-tree-right-side-view/
+
 from collections import deque
 from typing import Optional, List
 
